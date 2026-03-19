@@ -1,0 +1,20 @@
+{
+  "name": "ph-sensor",
+  "author": "ProCoding Whitehat JR",
+  "pins": [
+    "VCC",
+    "GND",
+    "OUT",
+    "",
+    ""
+  ],
+  "controls": [
+    {
+      "id": "phValue",
+      "label": "PH",
+      "type": "slider",
+      "min": 0,
+      "max": 14
+    }
+  ]
+}

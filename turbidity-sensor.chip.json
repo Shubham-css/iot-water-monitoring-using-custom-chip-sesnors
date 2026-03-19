@@ -1,0 +1,20 @@
+{
+  "name": "turbidity-sensor",
+  "author": "ProCoding Whitehat JR",
+  "pins": [
+    "VCC",
+    "GND",
+    "OUT",
+    "",
+    ""
+  ],
+  "controls": [
+    {
+      "id": "turbidityValue",
+      "label": "Turbidity (NTU)",
+      "type": "slider",
+      "min": 0,
+      "max": 3000
+    }
+  ]
+}

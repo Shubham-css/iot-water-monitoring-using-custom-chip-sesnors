@@ -1,0 +1,22 @@
+{
+  "name": "tdssensor",
+  "author": "ProCoding Whitehat JR",
+  "pins": [
+    "GND",
+    "VCC",
+    "",
+    "OUT0",
+    "",
+    "",
+    ""
+  ],
+  "controls": [
+    {
+      "id": "tdsValue",
+      "label": "TDS",
+      "type": "slider",
+      "min": 0,
+      "max": 1000
+    }
+  ]
+}
