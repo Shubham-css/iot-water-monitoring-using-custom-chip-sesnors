@@ -46,12 +46,6 @@ Real-time IoT-based system to monitor water quality parameters using ESP32 and c
 
 ---
 
-## 📸 Simulation Preview
-
-(Add screenshots here)
-
----
-
 ## 🎯 Use Cases
 
 * Smart water quality monitoring
