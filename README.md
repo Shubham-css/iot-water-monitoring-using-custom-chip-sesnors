@@ -68,7 +68,7 @@ Real-time IoT-based system to monitor water quality parameters using ESP32 and c
 https://wokwi.com/projects/458360971543506945
 
 ---
-Author : Shubham Fulwani
+## Author : Shubham Fulwani
 
 ---
 
